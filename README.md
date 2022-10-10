@@ -1,4 +1,4 @@
 # sklearn_model
 sklearn模型训练
 ---
-1.svm
+1.svm模型
